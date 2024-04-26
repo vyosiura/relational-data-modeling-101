@@ -70,4 +70,4 @@ Ex.: Um funcionário pode ter vários beneficiários em seu plano de saúde. Nes
 
 ## Isso é só começo
 
-Apesar de parecer muita coisa, iremos abordar pouco a pouco todos os conceitos para ficar confortável e conseguirmos aplicar normalização no dia a dia. Podemos pular para o [nosso estudo de caso](./planejamento.md)
+Apesar de parecer muita coisa, iremos abordar pouco a pouco todos os conceitos para ficar confortável e conseguirmos aplicar normalização no dia a dia. Podemos pular para o [nosso estudo de caso](./estudo-de-caso.md)
