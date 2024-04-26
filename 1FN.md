@@ -18,7 +18,7 @@ A importância de identificar as entidades já começa na 1FN, pois dessa forma,
 
 ## Chave Primária
 
-Aqui temos o primeiro contato com um dos conceitos mais imporantes da normalização e, consequetemente, do modelo relacional: `chave primária` é um conceito utilizado para definir a atomicidade das tuplas em uma entidade e garantir que ela seja única e exclusiva. Essa chave primária pode ser um atributo ou um conjunto de atributos que identifica a tupla da entidade única e que não altera-se seu valor. Dessa forma, ela serve como referência para relacionamentos e identificação única da tupla na entidade. Características:x
+Aqui temos o primeiro contato com um dos conceitos mais imporantes da normalização e, consequetemente, do modelo relacional: `chave primária` é um conceito utilizado para definir a atomicidade das tuplas em uma entidade e garantir que ela seja única e exclusiva. Essa chave primária pode ser um atributo ou um conjunto de atributos que identifica a tupla da entidade única e que não altera-se seu valor. Dessa forma, ela serve como referência para relacionamentos e identificação única da tupla na entidade.
 
 - Seu valor não se repete
 - Não altera-se  o valor
