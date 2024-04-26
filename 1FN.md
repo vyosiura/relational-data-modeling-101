@@ -57,6 +57,10 @@ Um dos motivos de aplicarmos a chave primária é que já nos ajuda na normaliza
 | 4  	          |    4               |   4  |2     | 123890398   	| jzu-9876                |  10/04/2020         |        13/04/2020    | 
 | 5             |    5               |   5  |3     | 901287310    | liu-1092                |  10/04/2021         |      20/05/2021      | 
 
+> Melhorar o enunciado e explicar a regra de negócio para deixar de forma mais clara o porquê
+> Qual é o problema que a normalização resolverá?
+> Propósito do porquê fazemos o que fazemos> Eficiencia computacional, armazenamento, etc... 
+
 ### Entidade - Estado
 
 |Id  PK | Nome           |
